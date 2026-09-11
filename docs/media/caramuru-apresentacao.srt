@@ -1,0 +1,103 @@
+1
+00:00:00,450 --> 00:00:10,505
+Caramurú Construções. Uma plataforma de engenharia de campo para subestações e linhas de transmissão. Este tour
+
+2
+00:00:10,505 --> 00:00:18,675
+apresenta o visual atual do site e as interações disponíveis, com dados demonstrativos.
+
+3
+00:00:20,075 --> 00:00:29,946
+A visão executiva reúne avanço físico, frentes liberadas, análises preliminares de risco e efetivo. As barras
+
+4
+00:00:29,946 --> 00:00:39,816
+mostram as fases construtivas. Os valores são exemplos definidos na interface e ainda não vêm da
+
+5
+00:00:39,816 --> 00:00:41,050
+operação real.
+
+6
+00:00:42,450 --> 00:00:50,588
+O controle no topo alterna entre os temas claro e escuro. A navegação se adapta à
+
+7
+00:00:50,588 --> 00:00:58,217
+largura da janela. Aqui vemos a mesma visão executiva com a paleta escura já aplicada.
+
+8
+00:00:59,617 --> 00:01:08,546
+O módulo de avanço físico combina indicadores, estruturas e um traçado ilustrativo. O mapa atual é
+
+9
+00:01:08,546 --> 00:01:17,475
+um desenho em SVG com controles visuais. A conexão com os dados geográficos do banco ainda
+
+10
+00:01:17,475 --> 00:01:18,592
+está pendente.
+
+11
+00:01:19,992 --> 00:01:28,686
+O filtro por fase já funciona sobre os dados de exemplo. Ao selecionar Comissionamento, o conjunto
+
+12
+00:01:28,686 --> 00:01:37,380
+passa de oitenta estruturas para oito torres, da setenta e três à oitenta, com seus percentuais
+
+13
+00:01:37,380 --> 00:01:38,467
+e efetivos.
+
+14
+00:01:39,867 --> 00:01:49,479
+O diário de obras organiza clima, efetivo, análises de risco e referências de evidências com coordenadas.
+
+15
+00:01:49,479 --> 00:01:59,092
+Os registros e as imagens são demonstrativos. Ainda não há alimentação em tempo real nesta tela.
+
+16
+00:02:00,492 --> 00:02:10,539
+Ao acionar Aprovar frente, a primeira análise muda para Aprovada agora. Essa resposta foi verificada no
+
+17
+00:02:10,539 --> 00:02:20,586
+navegador. A alteração fica apenas na memória da tela. Rejeição e exportação de PDF ainda não
+
+18
+00:02:20,586 --> 00:02:21,842
+executam ações.
+
+19
+00:02:23,242 --> 00:02:32,339
+A área de ativos apresenta etiquetas para curvadoras hidráulicas, guinchos e andaimes, com código e número
+
+20
+00:02:32,339 --> 00:02:40,300
+de série. Os desenhos exibidos são provisórios e ainda não codificam QR Codes válidos.
+
+21
+00:02:41,700 --> 00:02:50,527
+O tamanho do lote pode ser ajustado. Nesta demonstração, a quantidade mudou de doze para seis
+
+22
+00:02:50,527 --> 00:02:59,353
+etiquetas. O botão de impressão chama o navegador, mas os códigos e as dimensões físicas ainda
+
+23
+00:02:59,353 --> 00:03:01,008
+precisam ser validados.
+
+24
+00:03:02,408 --> 00:03:13,612
+O projeto já oferece uma interface navegável para apresentar sua proposta. Backend e aplicativo móvel também
+
+25
+00:03:13,612 --> 00:03:24,815
+possuem código em desenvolvimento. As próximas entregas incluem integração com dados reais, acesso seguro, mapas, códigos
+
+26
+00:03:24,815 --> 00:03:29,717
+válidos e relatórios. Caramurú. Engenharia de campo.
