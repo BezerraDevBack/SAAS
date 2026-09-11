@@ -1,0 +1,22 @@
+/* IP — Caramurú Construções — assinatura do autor */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-caramuru-sand text-caramuru-ink antialiased;
+}
+
+@media print {
+  body { background: white !important; }
+  .label-card { break-inside: avoid; border-color: #111827 !important; }
+}

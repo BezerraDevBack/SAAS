@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Caramurú Campo",
+    "slug": "caramuru-campo",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "caramuru",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      ["expo-camera", { "cameraPermission": "Permita que o Caramurú Campo leia QR Codes de equipamentos." }],
+      ["expo-location", { "locationWhenInUsePermission": "Permita capturar a posição GNSS da evidência de campo." }],
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.caramuru.campo"
+    },
+    "android": {
+      "package": "br.com.caramuru.campo"
+    }
+  }
+}

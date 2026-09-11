@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.uv/
+*.egg-info/
+dist/
+build/
+
+# Env & secrets
+.env
+.env.local
+.env.*.local
+.env.*
+!.env.example
+!**/.env.example
+
+# Next.js
+apps/web/.next/
+apps/web/out/
+
+# Expo
+apps/mobile/.expo/
+apps/mobile/ios/
+apps/mobile/android/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Turbo
+.turbo/
+
+# Coverage / logs
+coverage/
+*.log
+*.tsbuildinfo
+
+# MinIO / local data
+data/
+docker-data/
+
+# Python
+.python-version
+!apps/api/.python-version
+
+# Local documentation
+/CONTEXT_STATE.md
+/.local-notes/
